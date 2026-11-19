@@ -28,7 +28,7 @@ python agent2.py
 
 
 ![Conversation between both agents as seem on one window](image.png)
-Results shown on one window, that is, from one agent's viewpoint.
+Results shown on one window, that is, from Agent A's viewpoint.
 
 ### Configuring the system
 
